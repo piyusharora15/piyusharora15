@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyusharora15" alt="piyusharora15" /></a> </p>
 
-- 🔭 I’m currently working on **a Full Stack E-commerce Platform with advanced product management and seamless user experience.**
+- 🔭 I’m currently working on **building an AI powered Medical Appointment and Symptom Checker that can address healthcare access issues in rural areas.**
 
-- 🌱 I’m currently learning **advanced backend concepts to implement payment integration, recommendation systems etc.**
+- 🌱 I’m currently learning **Local Language Translation and advanced backend concepts to filter doctors based on specialization and location.**
 
-- 👯 I’m looking to collaborate on **building advanced product recommendation systems and payment gateway integrations for the E-commerce Platform.**
+- 👯 I’m looking to collaborate on **implementing live health tips and emergency alerts.**
 
 - 📫 How to reach me **piyusharora1504@gmail.com**
 

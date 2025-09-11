@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Piyush Arora! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Piyush Arora! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>A Full Stack Developer and problem solver
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/4c783f21-dac8-4c44-a9cb-3595094ee6d5">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 

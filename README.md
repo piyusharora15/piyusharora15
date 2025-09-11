@@ -11,7 +11,7 @@
 const piyush = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java"],
-    askMeAbout: ["Web Dev", "UI/UX", "Data Structures & Algorithms"],
+    askMeAbout: ["Web Dev", "Data Structures & Algorithms"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],

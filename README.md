@@ -14,14 +14,14 @@ const piyush = {
     askMeAbout: ["Web Dev", "Data Structures & Algorithms"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React"],
             css: ["Tailwind"],
             uiLibraries: ["Material UI", "ShadCnUI"],
         },
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["PostgreSQL", "MongoDB", "Firebase"],
+        databases: ["MongoDB", "Firebase"],
         misc: ["Socket.IO", "REST APIs", "WebSockets"],
     },
     currentFocus: "Learning how to design scalable systems",

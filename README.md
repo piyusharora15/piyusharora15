@@ -66,20 +66,15 @@ const piyush = {
 <table>
 <tr>
 <td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=piyusharora15&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117&text_color=ffffff" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=piyusharora15&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117&text_color=ffffff" alt="Piyush's GitHub Stats" />
 </td>
 <td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusharora15&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusharora15&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyusharora15&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyusharora15&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
 ---
@@ -92,7 +87,7 @@ const piyush = {
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Piyush_1504" alt="LeetCode Badges" />
 
 ### **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=piyusharora15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=piyusharora15&theme=tokyonight&no-frame=false&margin-w=4&column=4" alt="GitHub Trophies" />
 
 </div>
 

@@ -72,90 +72,11 @@ const piyush = {
 ---
 
  <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-### 🐍 GitHub Snake
+```txt
+No activity tracked
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
-</p>
-
----
-
-
-## 🏆 **Achievements & Progress**
-
-<div align="center">
-
-### **LeetCode Journey**
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Piyush_1504" alt="LeetCode Badges" />
-
-### **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=piyusharora15&theme=tokyonight&no-frame=false&margin-w=4&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🔥 **Recent Activity**
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyusharora15&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 **Let's Connect**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <a href="https://www.linkedin.com/in/piyush-arora1504/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-    <br><strong>LinkedIn</strong>
-  </a>
-</td>
-<td align="center" width="25%">
-  <a href="https://x.com/piyusharora_15">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
-    <br><strong>Twitter</strong>
-  </a>
-</td>
-<td align="center" width="25%">
-  <a href="mailto:piyusharora1504@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
-    <br><strong>Email</strong>
-  </a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
-
-*Thanks for visiting! Feel free to explore my repositories and don't forget to star ⭐ if you find something interesting!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=piyusharora15&color=6C63FF&style=for-the-badge&label=Profile+Views)
-
-</div>
-
-
-
-
-
- Last Updated on 11/09/2025 00:34:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**

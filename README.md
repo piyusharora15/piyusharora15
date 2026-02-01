@@ -58,25 +58,33 @@ const piyush = {
 </div>
 
 ---
-## 📈 **GitHub Analytics**
+### 📊 GitHub Stats
 
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=piyusharora15&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117&text_color=ffffff" alt="Piyush's GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusharora15&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyusharora15&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" />
-</div>
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
 
 ---
+
+### 🔥 Contribution Streak
+
+![Streak](./profile/streak.svg)
+
+---
+
+### ⏲ WakaTime Stats
+
+![WakaTime](./profile/wakatime.svg)
+
+---
+
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+</p>
+
+---
+
 
 ## 🏆 **Achievements & Progress**
 

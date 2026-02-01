@@ -71,11 +71,8 @@ const piyush = {
 
 ---
 
-### ⏲ WakaTime Stats
-
-![WakaTime](./profile/wakatime.svg)
-
----
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🐍 GitHub Snake
 

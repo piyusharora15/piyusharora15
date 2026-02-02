@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Piyush+Arora;Welcome+to+my+PROFILE" alt="Typing SVG" /></a>
 </h1>
 <p><em>I'm a Software Engineer and Backend Developer
-<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/4c783f21-dac8-4c44-a9cb-3595094ee6d5">
+<img align="right" alt="Coding" width="475" src="https://github.com/user-attachments/assets/4c783f21-dac8-4c44-a9cb-3595094ee6d5">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
